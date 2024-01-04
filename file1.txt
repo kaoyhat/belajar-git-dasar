@@ -1,4 +1,8 @@
 menambah file1.txt
 menambah baris baru difile1.txt
 feature/1
+<<<<<<< HEAD
 feature A
+=======
+feature B
+>>>>>>> feature/b
