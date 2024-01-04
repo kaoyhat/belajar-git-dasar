@@ -2,3 +2,4 @@ menambah file3.txt
 seharusnya ada baris ke 2
 feature/3
 feature B
+Feature C
